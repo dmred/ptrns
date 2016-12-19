@@ -108,9 +108,9 @@ Archer Archer::prototype = Archer( Dummy());
 Horseman Horseman::prototype = Horseman( Dummy());
   
   
-int main()
-{    
-  vector<Warrior*> v;
-  v.push_back( Warrior::createWarrior( Infantryman_ID));
-  v.push_back( Warrior::createWarrior( Archer_ID));
-  v.push_back( Warrior::createWarrior( Horseman_ID)); 
+//int main()
+//{    
+//  vector<Warrior*> v;
+//  v.push_back( Warrior::createWarrior( Infantryman_ID));
+//  v.push_back( Warrior::createWarrior( Archer_ID));
+//  v.push_back( Warrior::createWarrior( Horseman_ID)); 
