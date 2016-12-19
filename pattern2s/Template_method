@@ -68,4 +68,4 @@ int main()
     array[i]->execute();
     cout << '\n';
   }
-}
+}//a b c d e a 2 c 4 e
