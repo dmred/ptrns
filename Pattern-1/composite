@@ -8,7 +8,6 @@ class Unit
   public:
     virtual int getStrength() = 0;
     virtual void addUnit(Unit* p) {
-      assert( false);
     }
     virtual ~Unit() {}
 };
